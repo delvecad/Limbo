@@ -1,0 +1,43 @@
+body {
+    background-color: #cc0000;
+}
+
+h1 {
+    
+    color: white;
+    margin-top: 10%;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: black;
+    font-family: sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+
+.frontPage{
+    background-color: white;
+    height: 30px;
+    margin-top: -7%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: -10px;
+    padding: 0;
+    width: 200px;
+    background-color: black;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #cc0000;
+    color: black;
